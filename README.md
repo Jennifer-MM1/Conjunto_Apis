@@ -4,7 +4,7 @@ Una plataforma web interactiva estilo dashboard construida con **React**, **Vite
 
 ---
 
-## 🎨 Características de UI/UX y Diseño Premium
+## Características de UI/UX y Diseño Premium
 
 * **Fondo de Partículas 3D Interactivo**: Un lienzo (Canvas HTML5) optimizado que proyecta una red de nodos tridimensionales flotantes en constante rotación que responden dinámicamente a la posición del cursor.
 * **Efecto de Inclinación de Tarjeta 3D (3D Card Tilt)**: Las tarjetas informativas principales del panel y de navegación aplican transformaciones 3D nativas (`perspective`, `rotateX`, `rotateY`) y un destello brillante translúcido (*glare*) controlado por el puntero para simular volumen y profundidad física.
@@ -17,7 +17,7 @@ Una plataforma web interactiva estilo dashboard construida con **React**, **Vite
 
 ---
 
-## ⛩️ Módulos y APIs Consumidas (10 Secciones)
+## Módulos y APIs Consumidas (10 Secciones)
 
 1. **Dashboard Home**: Módulo de bienvenida con saludo horario dinámico, métricas generales de conexión y atajos con tarjetas 3D interactivas para cada sección.
 2. **Anime Explorer (Jikan API)**: Catálogo y buscador de animes populares con filtros por tipo (TV/Peliculas), paginación y modal detallado con sinopsis y trailer oficial incrustado de YouTube.
@@ -32,7 +32,7 @@ Una plataforma web interactiva estilo dashboard construida con **React**, **Vite
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Vite** (como entorno de desarrollo rápido)
 * **React 18** (para la lógica basada en componentes)
@@ -43,7 +43,7 @@ Una plataforma web interactiva estilo dashboard construida con **React**, **Vite
 
 ---
 
-## 🚀 Instalación y Uso Local
+## Instalación y Uso Local
 
 Sigue estos pasos para instalar y arrancar la aplicación en tu entorno local:
 
