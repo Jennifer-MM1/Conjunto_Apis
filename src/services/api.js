@@ -1,5 +1,5 @@
 // OpenWeather API Key provided by user
-const WEATHER_API_KEY = 'ac0b81b4109fbac23e052c2000d0c97f';
+const WEATHER_API_KEY = 'ac0';
 
 // Custom fetch wrapper with timeout
 const fetchWithTimeout = async (url, options = {}, timeout = 8000) => {
